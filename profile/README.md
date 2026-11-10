@@ -75,7 +75,7 @@ use for audition and the channel strip.
 |---|---|
 | **Android** | Native shell around the same engine in V8: SAF folder trees indexed in Room, favourites and recents, background playback with a media session, live pattern view. Android 15 (API 35)+, arm64-v8a |
 | **modplay XR** | Quest 3 / 3S, Horizon OS v207+. Meta Spatial SDK panels on an arc, one audio object per tracker channel, Interaction SDK hands and controllers, MRUK room bounds for the ring and reverb |
-| **Demo** | The browser player with transport, seek, channel mutes, instrument audition and a realtime pattern view: [modplayjs.github.io/modplayjs](https://modplayjs.github.io/modplayjs/) |
+| **Playground** | The browser player with transport, seek, channel mutes, instrument audition and a realtime pattern view: [playground.modplayjs.org](https://playground.modplayjs.org) |
 
 The marketing site and the API reference live at
 [modplayjs.org](https://modplayjs.org): one page per area — core and timing,
